@@ -1,0 +1,43 @@
+* {
+    margin:0px ;
+   font-family: 'work Sans', sans-serif;
+}
+.container{
+   margin-top: 100px;
+   margin-right: 200px ;
+   margin-left: 200px;
+}
+.header{
+   display: flex;
+   justify-content: space-between;
+}
+img{
+   width:150px;
+   height:150px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   
+ }
+td, th {
+   border: 1px solid #000000;
+   text-align:center;
+   padding: 8px;
+ }
+ .first-page{
+   margin-top: 50px;
+ }
+ .projects{
+   padding-top: 15px;
+   padding-left: 20px;
+ }
+ .projects li{
+   padding-top: 10px;
+   
+   
+ }
+ .none{
+   display: none;
+ }
